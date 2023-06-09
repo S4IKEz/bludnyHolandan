@@ -1,2 +1,2 @@
 # bludnyHolandan
-Inteligentné systémy a mobilná robotika (ISaMR) Zadanie 1
+Solution for a ros2 based robot. Optimal route finder
